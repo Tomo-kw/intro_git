@@ -6,4 +6,4 @@ Gitの練習をしてきます。
 ・git status
 ・git diffをdiに短縮
 ・いいね機能テスト
-
+add-postを追加
