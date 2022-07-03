@@ -1,2 +1,2 @@
-add-postの追加
+add-postの追加!!
 rebaseしてみる
