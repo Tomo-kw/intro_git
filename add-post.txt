@@ -1,2 +1,6 @@
-add-postの追加
-rebaseしてみる
+add-postの追加!!??
+rebaseしてみる!!
+add-post-mail
+add-posts
+rebaseしない
+postをiineにマージ
