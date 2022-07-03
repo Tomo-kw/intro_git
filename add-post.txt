@@ -1,3 +1,4 @@
 add-postの追加!!??
 rebaseしてみる
 add-post-mail
+add-posts
