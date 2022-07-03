@@ -3,3 +3,4 @@ rebaseしてみる!!
 add-post-mail
 add-posts
 rebaseしない
+postをiineにマージ
