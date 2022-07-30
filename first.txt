@@ -10,3 +10,4 @@ add-postを追加
 いいねrebase
 fast-foward追加
 non fast-foward
+masterも変更してfast-foward
