@@ -9,3 +9,4 @@ Gitの練習をしてきます。
 add-postを追加
 いいねrebase
 fast-foward追加
+non fast-foward
