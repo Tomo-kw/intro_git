@@ -8,3 +8,4 @@ Gitの練習をしてきます。
 ・いいね機能テスト
 add-postを追加
 いいねrebase
+fast-foward追加
