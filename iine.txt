@@ -3,3 +3,4 @@ addpost使ってリベースしてみる
 もう1回マージ？？
 またrebaseしてみる
 postをマージしてみる
+masterも変更してffする
