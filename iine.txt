@@ -4,3 +4,4 @@ addpost使ってリベースしてみる
 またrebaseしてみる
 postをマージしてみる
 masterも変更してffする
+masterじゃなくてdevelop変更してのFF!
