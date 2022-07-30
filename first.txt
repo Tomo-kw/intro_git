@@ -12,3 +12,4 @@ fast-foward追加
 non fast-foward
 masterも変更してfast-foward
 masterも変更してNon fast-fowardできる？
+ffコミット残らない？
