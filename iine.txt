@@ -5,3 +5,4 @@ addpost使ってリベースしてみる
 postをマージしてみる
 masterも変更してffする
 masterじゃなくてdevelop変更してのFF!
+phpstormでGitやってみる!!!!!!!!
